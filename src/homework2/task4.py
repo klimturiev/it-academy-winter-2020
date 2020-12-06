@@ -1,4 +1,5 @@
-# 4 task: to count the number of uppercase and lowercase letters in the sentence
+# 4 task: to count the number of
+# uppercase and lowercase letters in the sentence
 my_str = ' LoVE Violence FreeDom'
 uppercase_letter = 0
 lowercase_letter = 0
