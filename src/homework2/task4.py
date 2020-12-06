@@ -7,5 +7,5 @@ for ch in my_str:
         uppercase_letter += 1
     if ch.islower():
         lowercase_letter += 1
-print('Sentence contains:', uppercase_letter, 'uppercase letters and',
+print('Sentence contain:', uppercase_letter, 'uppercase letters and',
       lowercase_letter, 'lowercase letters')

@@ -1,4 +1,4 @@
-# 7.1 task: Given an integer, number, perform the following conditional actions:
+# 7.1 task: Given an integer number, perform the following conditional actions:
 # If number is odd, print Weird
 # If number is even and in the inclusive range of 2 to 5, print Not Weird
 # If number is even and in the inclusive range of 6 to 20, print Weird
@@ -33,7 +33,8 @@ print(is_leap(year))
 
 # 7.3 task: You are given  words. Some words may repeat.
 # For each word, output its number of occurrences.
-# The output order should correspond with the input order of appearance of the word.
+# The output order should correspond
+# with the input order of appearance of the word.
 number = int(input())
 list_ = []
 res_list = []
