@@ -1,5 +1,4 @@
 # 1 task: define total price of goods
-
 roubles = 15
 coins = 125
 number_of_goods = 15
