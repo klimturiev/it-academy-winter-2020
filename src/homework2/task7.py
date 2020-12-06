@@ -30,6 +30,7 @@ def is_leap(leap_year):
 year = int(input())
 print(is_leap(year))
 
+
 # 7.3 task: You are given  words. Some words may repeat.
 # For each word, output its number of occurrences.
 # The output order should correspond with the input order of appearance of the word.
